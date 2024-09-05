@@ -17,11 +17,13 @@ The primary goal of this project is to enhance the understanding of customer beh
 
 **Feature Engineering - Devising Metrics**
 * **Data Exploration:** Calculate various metrics such as number of sessions, cancellation_rate, total trips, average checked bags, total hotel spend, etc.
-* **Customer Segmentation: - Grouping the Customers**
+  
+**Customer Segmentation: - Grouping the Customers**
 * **Demographic Analysis:** Analyzing customer segments by demographic characteristics such as age, gender, marital status, and parental status using Tableau.
 * **Visualization:** Creating visualizations in Tableau to present the findings and insights from the analysis.
 
 **Conclusions and Recommendations** 
+
 Summarizing the project's goals, findings, and provide recommendations based on customer segmentation.
 
 ## **Resources**
