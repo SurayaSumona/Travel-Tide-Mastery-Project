@@ -29,4 +29,4 @@ Summarizing the project's goals, findings, and provide recommendations based on 
 ## **Resources**
 
 * **Google Colab:**
-* **Tableau Dashbaord:**
+* **Tableau Dashboard:**
