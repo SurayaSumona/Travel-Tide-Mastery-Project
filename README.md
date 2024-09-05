@@ -1,4 +1,4 @@
-# Travel-Tide-Customer Segmentation-Analysis
+# Travel Tide Customer Segmentation Analysis
 
 **Objective:**
 
