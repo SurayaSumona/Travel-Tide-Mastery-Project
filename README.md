@@ -9,7 +9,7 @@ The primary goal of this project is to enhance the understanding of customer beh
 * **SQL:** Used for data extraction, transformation, and aggregation to create customer segments.
 * **Tableau:** Utilized for visualizing the segmentation results and analyzing perk distribution across customer groups.
 
-##**Step by Step Process**
+## **Step by Step Process**
 
 #### ***EDA - Exploring the Data***
 
