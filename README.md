@@ -28,5 +28,4 @@ Summarizing the project's goals, findings, and provide recommendations based on 
 
 ## **Resources**
 
-* **Google Colab:**
 * **Tableau Dashboard:** https://public.tableau.com/app/profile/suraya.kaniz.sumona/viz/TravelTideCustomerSegmentationAnalysis/CustomerSegmentAnalysis
