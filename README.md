@@ -1,4 +1,4 @@
-# 🏨✈️ Travel Tide Customer Segmentation Analysis:
+# 🏨✈️ Travel Tide Rewards Program: Data-Driven Customer Segmentation and Personalization 
 
 TravelTide, an innovative e-booking startup, is making its mark in the online travel industry with a clear mission: to create a personalized rewards program that keeps customers coming back to their platform. 
 
