@@ -9,6 +9,10 @@ The primary goal of this project is to enhance the understanding of customer beh
 * **SQL:** Used for data extraction, transformation, and aggregation to create customer segments.
 * **Tableau:** Utilized for visualizing the segmentation results and analyzing perk distribution across customer groups.
 
+## **Entity Relationship Diagram (ERD):**
+![image](https://github.com/user-attachments/assets/07a15fb3-93ef-436f-9bf1-99ab50a8cd74)
+
+
 ## **Step by Step Process**
 
 #### ***EDA - Exploring the Data***
